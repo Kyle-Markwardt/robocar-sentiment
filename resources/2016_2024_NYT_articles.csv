@@ -102,9 +102,9 @@
 74,2016-12-22,"In a Retreat, Uber Ends Its Self-Driving Car Experiment in San Francisco Uber, which defied state regulators who said the service was illegal, stopped the autonomous car program after only a week."
 139,2017-01-08,"Detroit Auto Show Reveals a Google-Designed Van That Could Steer the Industry The minivan, built by Fiat Chrysler with self-driving sensors from Waymo, is the first heavyweight collaboration between a major automaker and one of Silicon Valley’s elite."
 348,2017-01-10,Visions for the City of Tomorrow 11 leaders on how we can improve urban life.,1
-445,2017-01-20,"Tesla’s Self-Driving System Cleared in Deadly Crash The highway agency found that while Tesla’s Autopilot feature didn’t prevent a crash in Florida, the system performed as it was intended.",0
+445,2017-01-20,"Tesla’s Self-Driving System Cleared in Deadly Crash The highway agency found that while Tesla’s Autopilot feature didn’t prevent a crash in Florida, the system performed as it was intended.",
 138,2017-01-20,"Uber Hires Google’s Former Head of Search, Stoking a Rivalry Amit Singhal, a 15-year Google veteran, said he was joining Uber, a coup for a company that has publicly stated its intention to chase Google in autonomous-vehicle research."
-99,2017-01-31,Uber Partners With Daimler in a Step Toward a Driverless Future The move marks the first time a major automaker will provide its own self-driving vehicles specifically to operate on the ride-hailing company’s network.
+99,2017-01-31,Uber Partners With Daimler in a Step Toward a Driverless Future The move marks the first time a major automaker will provide its own self-driving vehicles specifically to operate on the ride-hailing company’s network.,1
 432,2017-02-08,"German Automakers Step Up to Silicon Valley Challenge BMW, Daimler and Volkswagen are striving with increasing urgency to ride the digital wave sweeping the industry, before it rolls over them."
 134,2017-02-10,"Ford to Invest $1 Billion in Artificial Intelligence Start-Up The automaker will be the majority shareholder Argo AI, which will focus on developing self-driving vehicle technology."
 433,2017-02-14,"General Motors, Considering Exiting Europe, Talks About Selling Opel A potential deal, with PSA Group of France, would create a European rival to Volkswagen and free G.M. to concentrate on new technologies."
@@ -116,7 +116,7 @@
 148,2017-02-25,"A Lawsuit Against Uber Highlights the Rush to Conquer Driverless Cars The suit, brought by the autonomous car business Waymo, accuses Uber and a star engineer, Anthony Levandowski, of planning to steal trade secrets."
 434,2017-02-25,"Western China Region Aims to Track People by Requiring Car Navigation Drivers are being ordered to install a GPS-like system in China’s largest prefecture, in Xinjiang, a far western region where ethnic tensions sometimes turn violent."
 241,2017-03-02,"Building a Road Map for the Self-Driving Car Along with sensors, autonomous vehicles will need detailed maps of the road and the obstacles ahead. Creating these maps will be a monumental task."
-282,2017-03-09,"Cars Will Talk to One Another. Exactly How Is Less Certain. A federal agency’s plan to require communication hardware in future cars is spurring efforts to have vehicles not only see, but talk, to reduce collisions."
+282,2017-03-09,"Cars Will Talk to One Another. Exactly How Is Less Certain. A federal agency’s plan to require communication hardware in future cars is spurring efforts to have vehicles not only see, but talk, to reduce collisions.",1
 332,2017-03-10,"From Flight 370 Hunt, New Insight Into Indian Ocean’s Unknown Depths The search for the Malaysia Airlines jetliner helped create 3-D maps of the ocean’s topographical complexity, at a level of detail never before achieved."
 86,2017-03-11,Waymo Asks Court to Block Uber’s Self-Driving Car Project The autonomous car unit of Google’s parent company has also accused a former company executive of systematically stealing proprietary documents.
 135,2017-03-13,Intel Buys Mobileye in $15.3 Billion Bid to Lead Self-Driving Car Market The deal underlines the chip maker’s determination to make sure it can provide the computing power needed for autonomous vehicles.
@@ -170,10 +170,10 @@
 211,2017-06-07,A Guide to Challenges Facing Self-Driving Car Technologists The underlying technology of autonomous vehicles has made dramatic strides in recent years. But there are still plenty of issues to be worked out.
 423,2017-06-07,Why Car Companies Are Hiring Computer Security Experts Researchers have proved a car can be remotely hacked. Now imagine if that car was being driven entirely by a computer.,0
 274,2017-06-07,Robot Cars Can’t Count on Us in an Emergency Scientists call it the “handoff” problem. How do you keep humans focused enough to take control of a self-driving car in an emergency?
-171,2017-06-07,"Daily Report: When Robots Can’t Trust Humans One day, robots will do all the driving for us. But in the meantime, they need our help. And we are not a reliable bunch.",0
+171,2017-06-07,"Daily Report: When Robots Can’t Trust Humans One day, robots will do all the driving for us. But in the meantime, they need our help. And we are not a reliable bunch."
 439,2017-06-07,"Electronic Setups of Driverless Cars Vulnerable to Hackers As cars become more like computers, cybercriminals will have more ways to get into their important systems."
 244,2017-06-08,Automakers Race to Get Ahead of Silicon Valley on Car-Sharing A BMW-owned service is the latest effort by a car manufacturer to get a grip on the technology trends that threaten its future.
-123,2017-06-15,"Envisioning the Car of the Future as a Living Room on Wheels As driverless cars develop, how we sit, inform and entertain ourselves are all up for grabs — and companies, designers and researchers are dreaming big."
+123,2017-06-15,"Envisioning the Car of the Future as a Living Room on Wheels As driverless cars develop, how we sit, inform and entertain ourselves are all up for grabs — and companies, designers and researchers are dreaming big.",1
 492,2017-06-22,BMW and Volkswagen Try to Beat Apple and Google at Their Own Game European carmakers and suppliers are trying to build the computing capacity they will need as vehicles digitize and become driverless.
 87,2017-06-26,"Waymo and Avis Reach Deal Over Self-Driving Cars’ Maintenance Avis Budget Group, a car-rental company, will perform basic upkeep on the fleet of self-driving minivans Waymo is deploying in the Phoenix area."
 320,2017-07-04,"After Years of Growth, Automakers Are Cutting U.S. Jobs A downturn in car sales after two record years is prompting companies to scale back domestic production, particularly for smaller vehicles."
@@ -245,7 +245,7 @@
 253,2018-02-10,"After Settling With Uber, Waymo Faces Bigger Challenges The self-driving car unit of Google’s parent company was a pioneer in self-driving cars. Now, its former engineers are among its toughest competitors."
 392,2018-02-12,"Tech’s Ethical ‘Dark Side’: Harvard, Stanford and Others Want to Address It Schools that helped produce some of Silicon Valley’s most prominent leaders are hustling to bring a more medicine-like morality to computer science."
 23,2018-02-13,The Autonomous Selfie Drone Is Here. Is Society Ready for It? A start-up called Skydio has created a consumer drone that flies itself. Its tech is likely to become ubiquitous.
-25,2018-02-27,California Scraps Safety Driver Rules for Self-Driving Cars The new regulations in Silicon Valley’s home state are expected to help the wider deployment of autonomous vehicles.,1
+25,2018-02-27,California Scraps Safety Driver Rules for Self-Driving Cars The new regulations in Silicon Valley’s home state are expected to help the wider deployment of autonomous vehicles.
 18,2018-02-27,Automated Vehicles Can’t Save Cities They could actually make cities much worse.,0
 396,2018-02-28,Paul Allen Wants to Teach Machines Common Sense The Microsoft co-founder will give $125 million to his nonprofit research lab to help develop technology that adds common sense to artificial intelligence.
 484,2018-03-06,"Uber’s Self-Driving Trucks Hit the Highway, but Not Local Roads Uber’s autonomous trucks have started hauling trailers on Arizona highways for customers for its freight-booking service."
@@ -254,7 +254,7 @@
 48,2018-03-14,"Lyft to Bring Driverless Car Tech to Broader Auto Industry The ride-hailing company is teaming up with Magna, a major auto supplier, to jointly develop self-driving car systems. It’s the latest in a series of alliances made by Lyft."
 88,2018-03-15,"When Self-Driving Cars Can’t Help Themselves, Who Takes the Wheel? Most autonomous cars on the road now have a backup driver inside. But once they’re gone, self-driving cars will turn to remote drivers when they don’t know what to do."
 19,2018-03-19,"How Driverless Cars See the World Around Them On Sunday, a woman in Arizona died after being struck by a self-driving car operated by Uber. Here is a guide to how autonomous vehicles operate."
-66,2018-03-19,"Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam A woman in Tempe, Ariz., died after being hit by a self-driving car operated by Uber, in what is believed to be the first fatality of a pedestrian from an autonomous vehicle on public roads."
+66,2018-03-19,"Self-Driving Uber Car Kills Pedestrian in Arizona, Where Robots Roam A woman in Tempe, Ariz., died after being hit by a self-driving car operated by Uber, in what is believed to be the first fatality of a pedestrian from an autonomous vehicle on public roads.",0
 54,2018-03-20,Toyota Takes Self-Driving Cars Off Road After Uber Accident The automaker said it wanted to reassess its testing program after an autonomous Uber vehicle killed a pedestrian.
 302,2018-03-20,How a Self-Driving Uber Killed a Pedestrian in Arizona The death of a woman who was struck by an autonomous car operated by Uber is believed to be the first pedestrian fatality associated with self-driving technology. Newly released video offers clues about what happened.,0
 499,2018-03-23,News Quiz: Test Your Knowledge of the Week’s Headlines Did you stay up to date this week?,x
