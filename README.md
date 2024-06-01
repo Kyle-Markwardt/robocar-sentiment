@@ -6,5 +6,5 @@ v1 used datasets from NYT API and Yahoo Finance.  Ultimately, the datasets in v1
 
 It used a pre-trained model (sentence-transformers/all-MiniLM-L6-v2) to determine sentiment.
 
-![Daily NYT driverless car headline sentimnet](resources/images/sentiment_over_time (1).jpg)
+![Daily NYT driverless car headline sentimnet](/resources/images/sentiment_over_time (1).jpg)
 
